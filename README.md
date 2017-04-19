@@ -1,4 +1,4 @@
-# NaoWritter
+# NaoWriter
 Python script that allows Robot NAO to write simple 3-letter words on whiteboard.
 ## Usage
 Change word in main.py on line 192
